@@ -6,9 +6,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 /**
- * @Author Tao.xj
- * @Description:
- * @Date:Created in 17:09 2017/10/12
+ * @author Tao.xj
+ * @date in 17:09 2017/10/12
  */
 public interface AreaRepository extends JpaRepository<Area,Long> {
     /**

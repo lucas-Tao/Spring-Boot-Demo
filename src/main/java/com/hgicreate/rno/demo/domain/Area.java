@@ -7,9 +7,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @Author Tao.xj
- * @Description:
- * @Date:Created in 17:03 2017/10/12
+ * @author Tao.xj
+ * @date in 17:03 2017/10/12
  */
 @Data
 @Entity
